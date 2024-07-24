@@ -1,1 +1,0 @@
-/usr/bin/cc -fPIC -shared -Wl,-soname,libqf_shared.so -o libqf_shared.so CMakeFiles/qf_shared.dir/src/qf_improved.c.o CMakeFiles/qf_shared.dir/src/murmur3.c.o  -lm

@@ -1,4 +1,0 @@
-/home/cyril/Documents/filters/qf_improved/build/CMakeFiles/qf_static.dir
-/home/cyril/Documents/filters/qf_improved/build/CMakeFiles/qf_shared.dir
-/home/cyril/Documents/filters/qf_improved/build/CMakeFiles/edit_cache.dir
-/home/cyril/Documents/filters/qf_improved/build/CMakeFiles/rebuild_cache.dir
